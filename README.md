@@ -1,4 +1,4 @@
-<h1>AWS Instance Setup</h1>
+<h1>AWS Billing Alert</h1>
 
 <h2>Description</h2>
 Project consists of using a billing alert to notify when 80% of the free services are used.
